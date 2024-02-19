@@ -8,8 +8,7 @@
     <div class="sm:py-8 py-2">
       <NuxtImg
         src="/images/hero-arch-1.jpg"
-        width="2000"
-        height="700"
+        class="h-[800px] w-full object-cover"
         fit="cover"
       />
     </div>
